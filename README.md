@@ -7,7 +7,7 @@ Introduction & Features: This project introduces the concept of network automati
 
 Installation: This section provides a step-by-step guide on how to install Netmiko and its dependencies. It covers the necessary software prerequisites and outlines the installation process for a smooth setup.
 
-Use Cases: The section explores various use cases of network automation with Netmiko. It demonstrates how Netmiko can be used to perform common network management tasks such as device configuration, retrieving device information, and automating repetitive tasks.
+Use Cases: The section explores various use cases of network automation with Netmiko. It demonstrates how Netmiko can be used to perform common network management tasks such as device configuration, retrieving device information, and automating repetitive tasks. Refer media for the demonstrations and python files for the code.
 
 Limitations: This part discusses the limitations of Netmiko and provides insights into scenarios where alternative libraries or approaches might be more suitable. It addresses potential challenges and considerations when working with different network devices and configurations.
 
