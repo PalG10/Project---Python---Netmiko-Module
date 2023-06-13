@@ -3,7 +3,7 @@ Network Automation project on Python - Netmiko module.
 
 The project titled **"Network Automation with Netmiko"** focuses on automating network management tasks using the Netmiko library.
 
-**Introduction & Features: **This project introduces the concept of network automation and highlights the features and capabilities of Netmiko, a Python library used for managing network devices. It explains how Netmiko simplifies the process of interacting with network devices through SSH.
+**Introduction & Features:** This project introduces the concept of network automation and highlights the features and capabilities of Netmiko, a Python library used for managing network devices. It explains how Netmiko simplifies the process of interacting with network devices through SSH.
 
 **Installation:** This section provides a step-by-step guide on how to install Netmiko and its dependencies. It covers the necessary software prerequisites and outlines the installation process for a smooth setup.
 
